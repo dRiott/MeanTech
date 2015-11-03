@@ -12,7 +12,7 @@
   },
   "author": "David Riott",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/driott/dataproj#readme",
+  "homepage": "https://github.com/dRiott/MeanTech.git",
   "dependencies": {
     "body-parser": "^1.14.1",
     "connect-flash": "^0.1.1",
