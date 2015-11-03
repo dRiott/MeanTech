@@ -1,3 +1,6 @@
+# MeanTech
+This is a tutorial project that will develop into a D3 Data project.
+
 Modules:
 1. Body-Parser: 
     - provides several middlewares to handle request data
